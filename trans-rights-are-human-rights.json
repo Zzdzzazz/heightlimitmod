@@ -55,6 +55,15 @@
     },
     {
         "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS",
+        "name": "TURTLE COVE",
+        "festival": "NONE",
+        "minBuild": 69,
+        "maxBuild": 99,
+        "buildRadius": 100
+    },
+    {
+        "gameType": "BEDWARS",
         "pool": "BEDWARS_4TEAMS_FAST",
         "name": "Burrow",
         "festival": "EASTER",
