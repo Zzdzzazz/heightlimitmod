@@ -702,7 +702,7 @@
         "name": "Airshow",
         "festival": "NONE",
         "minBuild": 50,
-        "maxBuild": 30,
+        "maxBuild": 101,
         "buildRadius": 105
     },
     {
